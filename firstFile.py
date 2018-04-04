@@ -3,6 +3,6 @@ class Human:
 		self.eyes = eyes
 		self.age = age
 		self.school = "fu"
-	def birthday():
+	def birthday(self):
 		self.age += 1
 
